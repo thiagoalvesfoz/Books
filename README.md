@@ -12,6 +12,12 @@ Não é necessário utilizar nenhum banco de dados, este projeto utiliza apenas 
 - JDK 11
 - Postman ou Insomnia ou a documentação do swagger.
 ```
+<br>
+ 
+**URL DO BANCO:** [localhost:8080/h2](http://localhost:8080/h2 "Fork do projeto");  
+**URL DOCUMENTAÇÃO:** [localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html);   
+
+<br>
 
 ## Clonando e configurando o projeto pelo Eclipse
 - - -
@@ -40,10 +46,7 @@ Não é necessário utilizar nenhum banco de dados, este projeto utiliza apenas 
 Se tudo ocorreu conforme o esperado você está pronto para executar o projeto.
 - - -
 
-**URL DO BANCO** localhost:8080/h2
-**URL DA DOCUMENTAÇÃO** localhost:8080/swagger-ui.html
 
-- - -
 ## Tecnologias Utilizadas
 ```
 * Spring Boot
